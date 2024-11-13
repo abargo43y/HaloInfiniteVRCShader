@@ -3,7 +3,7 @@ An open source unity shader designed to emulate the look of Halo Infinite's shad
 
 This was designed for use in VRChat, but may be used in other non-profit applications in Unity
 
-No files in any part of this repository contains or will be allowed to contain copyrighted work that does not belong to the owners of the submission
+No files in any part of this repository contains or will be allowed to contain ted work that does not belong to the owners of the submission
 
 All versions of this shader, it's derivatives, and similar shaders that use this shader for information, must be open source and available to all free of charge
 
